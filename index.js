@@ -42,6 +42,5 @@ nextBtn.addEventListener('click', function(){
   isNext();
 
 });
-
 isPrev();
 isNext();
